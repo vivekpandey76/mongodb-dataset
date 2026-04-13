@@ -1,0 +1,1272 @@
+[{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e0f"
+  },
+  "name": "Licensed Rubber Ball",
+  "brand": "Bergstrom - Gulgowski",
+  "category": "Home Decor",
+  "price": 18150.85,
+  "stock": 131,
+  "tags": [
+    "premium",
+    "popular",
+    "discount"
+  ],
+  "ratings": {
+    "average": 3.3683861146887124,
+    "count": 21
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e10"
+  },
+  "name": "Modern Aluminum Gloves",
+  "brand": "O'Hara - Corkery",
+  "category": "Appliances",
+  "price": 27867.95,
+  "stock": 190,
+  "tags": [
+    "new",
+    "discount",
+    "popular"
+  ],
+  "ratings": {
+    "average": 2.8324721099615626,
+    "count": 305
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e11"
+  },
+  "name": "Intelligent Steel Chips",
+  "brand": "Nikolaus, Sporer and Klocko",
+  "category": "Sports",
+  "price": 26083.19,
+  "stock": 83,
+  "tags": [
+    "premium"
+  ],
+  "ratings": {
+    "average": 2.5230624945991718,
+    "count": 197
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e12"
+  },
+  "name": "Frozen Gold Chicken",
+  "brand": "Schulist LLC",
+  "category": "Home Decor",
+  "price": 55061.99,
+  "stock": 11,
+  "tags": [
+    "new",
+    "limited",
+    "premium"
+  ],
+  "ratings": {
+    "average": 1.2879950224637398,
+    "count": 301
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e13"
+  },
+  "name": "Licensed Gold Gloves",
+  "brand": "Ebert, Ziemann and Kuvalis",
+  "category": "Home Decor",
+  "price": 7498.99,
+  "stock": 186,
+  "tags": [
+    "popular",
+    "new"
+  ],
+  "ratings": {
+    "average": 1.2796825081939645,
+    "count": 65
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e14"
+  },
+  "name": "Ergonomic Silk Hat",
+  "brand": "Roob - Friesen",
+  "category": "Electronics",
+  "price": 7673.59,
+  "stock": 169,
+  "tags": [
+    "limited",
+    "premium",
+    "discount"
+  ],
+  "ratings": {
+    "average": 2.1927929116387785,
+    "count": 475
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e15"
+  },
+  "name": "Modern Gold Car",
+  "brand": "Lesch, Nitzsche and Christiansen",
+  "category": "Fashion",
+  "price": 41513.2,
+  "stock": 53,
+  "tags": [
+    "new",
+    "limited"
+  ],
+  "ratings": {
+    "average": 2.38546055097034,
+    "count": 474
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e16"
+  },
+  "name": "Soft Ceramic Keyboard",
+  "brand": "Hamill, Ruecker and Lockman",
+  "category": "Sports",
+  "price": 34413.15,
+  "stock": 142,
+  "tags": [
+    "limited",
+    "popular"
+  ],
+  "ratings": {
+    "average": 3.038866472686617,
+    "count": 306
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e17"
+  },
+  "name": "Bespoke Ceramic Sausages",
+  "brand": "Turner - Raynor",
+  "category": "Appliances",
+  "price": 45116.9,
+  "stock": 190,
+  "tags": [
+    "discount",
+    "popular"
+  ],
+  "ratings": {
+    "average": 4.433676797053666,
+    "count": 62
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e18"
+  },
+  "name": "Luxurious Ceramic Cheese",
+  "brand": "Hudson, Gerhold and Lynch",
+  "category": "Sports",
+  "price": 41110.5,
+  "stock": 149,
+  "tags": [
+    "popular"
+  ],
+  "ratings": {
+    "average": 1.1840395673381323,
+    "count": 188
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e19"
+  },
+  "name": "Awesome Granite Shoes",
+  "brand": "Metz - Towne",
+  "category": "Sports",
+  "price": 13203.29,
+  "stock": 146,
+  "tags": [
+    "popular",
+    "premium"
+  ],
+  "ratings": {
+    "average": 2.932348479035826,
+    "count": 90
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e1a"
+  },
+  "name": "Frozen Granite Chicken",
+  "brand": "Bauch, Heller and Zboncak",
+  "category": "Appliances",
+  "price": 47048.85,
+  "stock": 159,
+  "tags": [
+    "popular"
+  ],
+  "ratings": {
+    "average": 4.146624756541625,
+    "count": 431
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e1b"
+  },
+  "name": "Small Wooden Shoes",
+  "brand": "Dietrich Inc",
+  "category": "Appliances",
+  "price": 30360.09,
+  "stock": 79,
+  "tags": [
+    "discount",
+    "new",
+    "limited"
+  ],
+  "ratings": {
+    "average": 4.304786060153214,
+    "count": 86
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e1c"
+  },
+  "name": "Sleek Metal Chips",
+  "brand": "Farrell Group",
+  "category": "Appliances",
+  "price": 24777.65,
+  "stock": 57,
+  "tags": [
+    "premium"
+  ],
+  "ratings": {
+    "average": 1.5145766814922563,
+    "count": 32
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e1d"
+  },
+  "name": "Elegant Ceramic Chair",
+  "brand": "Torphy, Hahn and Towne",
+  "category": "Appliances",
+  "price": 26004.55,
+  "stock": 84,
+  "tags": [
+    "limited"
+  ],
+  "ratings": {
+    "average": 3.7821930411557085,
+    "count": 270
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e1e"
+  },
+  "name": "Luxurious Metal Chicken",
+  "brand": "Lubowitz - Boehm",
+  "category": "Mobile",
+  "price": 58148.05,
+  "stock": 176,
+  "tags": [
+    "discount",
+    "limited",
+    "popular"
+  ],
+  "ratings": {
+    "average": 1.4272073471398934,
+    "count": 12
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e1f"
+  },
+  "name": "Oriental Marble Keyboard",
+  "brand": "Koch - Harvey",
+  "category": "Home Decor",
+  "price": 41037.45,
+  "stock": 48,
+  "tags": [
+    "discount",
+    "premium"
+  ],
+  "ratings": {
+    "average": 3.7539290140298482,
+    "count": 420
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e20"
+  },
+  "name": "Sleek Steel Shirt",
+  "brand": "Medhurst, Miller and Price",
+  "category": "Electronics",
+  "price": 25298.95,
+  "stock": 10,
+  "tags": [
+    "popular"
+  ],
+  "ratings": {
+    "average": 1.0834017422735456,
+    "count": 246
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e21"
+  },
+  "name": "Sleek Gold Towels",
+  "brand": "Rice and Sons",
+  "category": "Home Decor",
+  "price": 38203.35,
+  "stock": 174,
+  "tags": [
+    "limited",
+    "popular",
+    "premium"
+  ],
+  "ratings": {
+    "average": 4.859243171834592,
+    "count": 454
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e22"
+  },
+  "name": "Practical Concrete Mouse",
+  "brand": "Kunde Inc",
+  "category": "Sports",
+  "price": 28084.99,
+  "stock": 30,
+  "tags": [
+    "premium",
+    "new",
+    "discount"
+  ],
+  "ratings": {
+    "average": 4.150684256577716,
+    "count": 278
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e23"
+  },
+  "name": "Awesome Bronze Fish",
+  "brand": "Hammes - Wuckert",
+  "category": "Home Decor",
+  "price": 12497.29,
+  "stock": 142,
+  "tags": [
+    "premium",
+    "new"
+  ],
+  "ratings": {
+    "average": 3.245682393280965,
+    "count": 348
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e24"
+  },
+  "name": "Handmade Granite Hat",
+  "brand": "Koelpin and Sons",
+  "category": "Sports",
+  "price": 24689.05,
+  "stock": 133,
+  "tags": [
+    "discount",
+    "new",
+    "premium"
+  ],
+  "ratings": {
+    "average": 2.5904973237819653,
+    "count": 162
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e25"
+  },
+  "name": "Practical Gold Bike",
+  "brand": "Braun, Barton and Williamson",
+  "category": "Mobile",
+  "price": 20600.45,
+  "stock": 159,
+  "tags": [
+    "premium",
+    "discount",
+    "popular"
+  ],
+  "ratings": {
+    "average": 4.690660085836663,
+    "count": 483
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e26"
+  },
+  "name": "Bespoke Aluminum Mouse",
+  "brand": "Rowe, Trantow and Ratke",
+  "category": "Appliances",
+  "price": 49770.59,
+  "stock": 42,
+  "tags": [
+    "popular",
+    "new",
+    "limited"
+  ],
+  "ratings": {
+    "average": 1.7317638280677197,
+    "count": 419
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e27"
+  },
+  "name": "Recycled Bronze Tuna",
+  "brand": "Hermiston - Zemlak",
+  "category": "Home Decor",
+  "price": 26362.39,
+  "stock": 133,
+  "tags": [
+    "popular",
+    "new",
+    "discount"
+  ],
+  "ratings": {
+    "average": 3.067243642527141,
+    "count": 441
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e28"
+  },
+  "name": "Elegant Cotton Shoes",
+  "brand": "Lehner, Cummings and Cronin",
+  "category": "Appliances",
+  "price": 51663.89,
+  "stock": 110,
+  "tags": [
+    "discount",
+    "limited"
+  ],
+  "ratings": {
+    "average": 1.4111390385352118,
+    "count": 215
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e29"
+  },
+  "name": "Oriental Aluminum Shoes",
+  "brand": "Runte - Wisozk",
+  "category": "Home Decor",
+  "price": 28868.15,
+  "stock": 18,
+  "tags": [
+    "limited",
+    "premium",
+    "new"
+  ],
+  "ratings": {
+    "average": 3.3231608693597527,
+    "count": 227
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e2a"
+  },
+  "name": "Licensed Bronze Sausages",
+  "brand": "Lindgren, Gulgowski and Steuber",
+  "category": "Mobile",
+  "price": 26999.85,
+  "stock": 108,
+  "tags": [
+    "popular"
+  ],
+  "ratings": {
+    "average": 3.7936137569133823,
+    "count": 131
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e2b"
+  },
+  "name": "Luxurious Marble Computer",
+  "brand": "Raynor - Sawayn",
+  "category": "Appliances",
+  "price": 26648.89,
+  "stock": 164,
+  "tags": [
+    "popular",
+    "limited",
+    "discount"
+  ],
+  "ratings": {
+    "average": 1.2952157894416607,
+    "count": 152
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e2c"
+  },
+  "name": "Soft Metal Salad",
+  "brand": "Reichel Group",
+  "category": "Mobile",
+  "price": 51273.59,
+  "stock": 186,
+  "tags": [
+    "popular"
+  ],
+  "ratings": {
+    "average": 1.9050703449238764,
+    "count": 148
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e2d"
+  },
+  "name": "Recycled Silk Soap",
+  "brand": "Kulas, Boyer and Mosciski",
+  "category": "Fashion",
+  "price": 29413.49,
+  "stock": 171,
+  "tags": [
+    "popular"
+  ],
+  "ratings": {
+    "average": 2.8000156860668084,
+    "count": 53
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e2e"
+  },
+  "name": "Intelligent Plastic Bacon",
+  "brand": "Ullrich Inc",
+  "category": "Sports",
+  "price": 22146.25,
+  "stock": 153,
+  "tags": [
+    "discount"
+  ],
+  "ratings": {
+    "average": 2.9058277532569483,
+    "count": 205
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e2f"
+  },
+  "name": "Recycled Wooden Chair",
+  "brand": "Metz Group",
+  "category": "Sports",
+  "price": 49793.09,
+  "stock": 100,
+  "tags": [
+    "premium",
+    "popular"
+  ],
+  "ratings": {
+    "average": 2.631856566592373,
+    "count": 499
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e30"
+  },
+  "name": "Fresh Concrete Cheese",
+  "brand": "Flatley - Ankunding",
+  "category": "Home Decor",
+  "price": 57855.19,
+  "stock": 117,
+  "tags": [
+    "new",
+    "popular",
+    "premium"
+  ],
+  "ratings": {
+    "average": 2.7887283350291097,
+    "count": 238
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e31"
+  },
+  "name": "Modern Gold Chair",
+  "brand": "Smith and Sons",
+  "category": "Sports",
+  "price": 50678.73,
+  "stock": 165,
+  "tags": [
+    "new",
+    "limited",
+    "popular"
+  ],
+  "ratings": {
+    "average": 3.1845698960232824,
+    "count": 254
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e32"
+  },
+  "name": "Intelligent Silk Chips",
+  "brand": "Watsica - Volkman",
+  "category": "Sports",
+  "price": 2321.09,
+  "stock": 192,
+  "tags": [
+    "limited",
+    "discount",
+    "popular"
+  ],
+  "ratings": {
+    "average": 4.7059111525895805,
+    "count": 182
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e33"
+  },
+  "name": "Licensed Cotton Car",
+  "brand": "Willms, Bauch and Gleason",
+  "category": "Electronics",
+  "price": 46801.25,
+  "stock": 67,
+  "tags": [
+    "new",
+    "discount",
+    "popular"
+  ],
+  "ratings": {
+    "average": 4.84091598650397,
+    "count": 474
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e34"
+  },
+  "name": "Intelligent Bronze Shirt",
+  "brand": "Cruickshank LLC",
+  "category": "Appliances",
+  "price": 26292.49,
+  "stock": 191,
+  "tags": [
+    "new",
+    "limited"
+  ],
+  "ratings": {
+    "average": 1.6017871467392837,
+    "count": 45
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e35"
+  },
+  "name": "Bespoke Granite Bike",
+  "brand": "Price LLC",
+  "category": "Appliances",
+  "price": 37312.09,
+  "stock": 119,
+  "tags": [
+    "premium"
+  ],
+  "ratings": {
+    "average": 4.4272399216259615,
+    "count": 259
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e36"
+  },
+  "name": "Handmade Ceramic Pizza",
+  "brand": "Mertz, Stoltenberg and Bernhard",
+  "category": "Sports",
+  "price": 6629.79,
+  "stock": 18,
+  "tags": [
+    "discount"
+  ],
+  "ratings": {
+    "average": 1.0480142003584718,
+    "count": 181
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e37"
+  },
+  "name": "Recycled Plastic Salad",
+  "brand": "Waelchi, Price and Hermiston",
+  "category": "Electronics",
+  "price": 2829.09,
+  "stock": 17,
+  "tags": [
+    "popular"
+  ],
+  "ratings": {
+    "average": 1.008009198471926,
+    "count": 46
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e38"
+  },
+  "name": "Luxurious Metal Mouse",
+  "brand": "Leannon, Gibson and Rolfson",
+  "category": "Sports",
+  "price": 5351.79,
+  "stock": 160,
+  "tags": [
+    "new"
+  ],
+  "ratings": {
+    "average": 1.9808488950263583,
+    "count": 306
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e39"
+  },
+  "name": "Handmade Silk Chicken",
+  "brand": "Romaguera, Gerlach and Bashirian",
+  "category": "Appliances",
+  "price": 9937.79,
+  "stock": 42,
+  "tags": [
+    "discount",
+    "premium",
+    "popular"
+  ],
+  "ratings": {
+    "average": 1.380348013077708,
+    "count": 68
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e3a"
+  },
+  "name": "Frozen Metal Cheese",
+  "brand": "Anderson, Lowe and Dare",
+  "category": "Mobile",
+  "price": 6481.39,
+  "stock": 189,
+  "tags": [
+    "new",
+    "limited",
+    "discount"
+  ],
+  "ratings": {
+    "average": 1.4005494232178135,
+    "count": 50
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e3b"
+  },
+  "name": "Refined Gold Shoes",
+  "brand": "Sawayn Inc",
+  "category": "Mobile",
+  "price": 12441.85,
+  "stock": 101,
+  "tags": [
+    "limited",
+    "popular"
+  ],
+  "ratings": {
+    "average": 3.987296861009737,
+    "count": 394
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e3c"
+  },
+  "name": "Tasty Wooden Chair",
+  "brand": "Fahey Inc",
+  "category": "Appliances",
+  "price": 43356.79,
+  "stock": 100,
+  "tags": [
+    "discount"
+  ],
+  "ratings": {
+    "average": 3.4667330505973104,
+    "count": 459
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e3d"
+  },
+  "name": "Generic Bronze Tuna",
+  "brand": "White, Skiles and Green",
+  "category": "Appliances",
+  "price": 38543.49,
+  "stock": 139,
+  "tags": [
+    "discount",
+    "new"
+  ],
+  "ratings": {
+    "average": 2.889114252098793,
+    "count": 150
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e3e"
+  },
+  "name": "Licensed Gold Chair",
+  "brand": "Parisian, Schaden and McDermott",
+  "category": "Electronics",
+  "price": 55546.33,
+  "stock": 189,
+  "tags": [
+    "new",
+    "limited"
+  ],
+  "ratings": {
+    "average": 1.9622974532420305,
+    "count": 338
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e3f"
+  },
+  "name": "Unbranded Concrete Pants",
+  "brand": "O'Keefe - Murphy",
+  "category": "Home Decor",
+  "price": 28979.09,
+  "stock": 89,
+  "tags": [
+    "popular",
+    "discount",
+    "new"
+  ],
+  "ratings": {
+    "average": 4.0390159654360165,
+    "count": 60
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e40"
+  },
+  "name": "Electronic Bamboo Keyboard",
+  "brand": "Breitenberg - Schroeder",
+  "category": "Home Decor",
+  "price": 52292.55,
+  "stock": 165,
+  "tags": [
+    "limited",
+    "popular"
+  ],
+  "ratings": {
+    "average": 3.223737785435803,
+    "count": 383
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e41"
+  },
+  "name": "Practical Wooden Towels",
+  "brand": "Rutherford Group",
+  "category": "Electronics",
+  "price": 44579.79,
+  "stock": 186,
+  "tags": [
+    "new",
+    "discount",
+    "limited"
+  ],
+  "ratings": {
+    "average": 3.7142674673609775,
+    "count": 376
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e42"
+  },
+  "name": "Gorgeous Concrete Gloves",
+  "brand": "Hansen Inc",
+  "category": "Appliances",
+  "price": 51906.25,
+  "stock": 25,
+  "tags": [
+    "discount",
+    "premium",
+    "new"
+  ],
+  "ratings": {
+    "average": 3.0487279480281733,
+    "count": 320
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e43"
+  },
+  "name": "Handcrafted Aluminum Table",
+  "brand": "Heidenreich - Franey",
+  "category": "Sports",
+  "price": 15079.19,
+  "stock": 156,
+  "tags": [
+    "premium",
+    "popular",
+    "limited"
+  ],
+  "ratings": {
+    "average": 2.790474784980391,
+    "count": 376
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e44"
+  },
+  "name": "Handcrafted Concrete Computer",
+  "brand": "Cole, Herman and Bauch",
+  "category": "Mobile",
+  "price": 59962.49,
+  "stock": 175,
+  "tags": [
+    "new",
+    "discount",
+    "premium"
+  ],
+  "ratings": {
+    "average": 1.4810646435198258,
+    "count": 475
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e45"
+  },
+  "name": "Unbranded Cotton Mouse",
+  "brand": "Daniel Inc",
+  "category": "Fashion",
+  "price": 7464.29,
+  "stock": 103,
+  "tags": [
+    "premium",
+    "limited"
+  ],
+  "ratings": {
+    "average": 1.0819149189517177,
+    "count": 103
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e46"
+  },
+  "name": "Soft Cotton Gloves",
+  "brand": "Jacobson and Sons",
+  "category": "Home Decor",
+  "price": 21002.57,
+  "stock": 13,
+  "tags": [
+    "discount",
+    "premium"
+  ],
+  "ratings": {
+    "average": 1.3831579729162606,
+    "count": 314
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e47"
+  },
+  "name": "Fantastic Wooden Ball",
+  "brand": "Casper and Sons",
+  "category": "Mobile",
+  "price": 28508.85,
+  "stock": 148,
+  "tags": [
+    "premium",
+    "discount",
+    "new"
+  ],
+  "ratings": {
+    "average": 3.61088251192577,
+    "count": 338
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e48"
+  },
+  "name": "Recycled Plastic Car",
+  "brand": "Rau, Hartmann and Fritsch",
+  "category": "Electronics",
+  "price": 33979.05,
+  "stock": 125,
+  "tags": [
+    "premium",
+    "discount"
+  ],
+  "ratings": {
+    "average": 2.326100306214506,
+    "count": 360
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e49"
+  },
+  "name": "Practical Gold Table",
+  "brand": "Kreiger - Bergnaum",
+  "category": "Sports",
+  "price": 42681.29,
+  "stock": 130,
+  "tags": [
+    "premium",
+    "limited"
+  ],
+  "ratings": {
+    "average": 4.272841349046887,
+    "count": 136
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69dc7af0e979001e77383e4a"
+  },
+  "name": "Tasty Steel Chips",
+  "brand": "Herzog LLC",
+  "category": "Electronics",
+  "price": 48318.45,
+  "stock": 167,
+  "tags": [
+    "popular",
+    "premium",
+    "discount"
+  ],
+  "ratings": {
+    "average": 1.0017838725904409,
+    "count": 297
+  },
+  "createdAt": {
+    "$date": "2026-04-13T05:11:12.221Z"
+  }
+}]
