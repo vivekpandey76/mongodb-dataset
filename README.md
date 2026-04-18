@@ -108,6 +108,8 @@ You should see:
 * Orders
 * Products
 * Reviews
+* CustomerLarge
+* CustomerOtp
 
 ---
 
