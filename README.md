@@ -68,6 +68,20 @@ db.Reviews.insertMany(
 
 ---
 
+---
+
+### ⭐ CustomerLarge Collection
+
+Run the following:
+
+```
+db.CustomerLarge.insertMany(
+  // Copy the entire JSON data from CustomerLarge.json and paste here
+)
+```
+
+---
+
 ## ✅ Final Step
 
 After inserting all datasets, verify:
