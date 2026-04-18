@@ -82,6 +82,18 @@ db.CustomerLarge.insertMany(
 
 ---
 
+### ⭐ CustomerOtp Collection
+
+Run the following:
+
+```
+db.CustomerOtp.insertMany(
+  // Copy the entire JSON data from CustomerOtp.json and paste here
+)
+```
+
+---
+
 ## ✅ Final Step
 
 After inserting all datasets, verify:
